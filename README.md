@@ -4,12 +4,6 @@ An end-to-end Machine Learning web application designed to classify SMS messages
 
 ---
 
-## Project Overview
-
-Spam messages can lead to security risks, phishing attacks, and inbox clutter. This project provides a lightweight and accurate solution to detect spam SMS messages using Natural Language Processing (NLP) techniques and Machine Learning classification algorithms.
-
----
-
 ## 🚀 Key Features
 
 - **Text Cleaning & Preprocessing:**
@@ -38,7 +32,3 @@ Spam messages can lead to security risks, phishing attacks, and inbox clutter. T
 - **Machine Learning:** Scikit-Learn (Multinomial Naive Bayes)
 - **Web Interface:** Streamlit
 - **Model Serialization:** Pickle
-
-
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
